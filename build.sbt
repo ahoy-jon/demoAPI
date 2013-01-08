@@ -1,6 +1,6 @@
 //import net.thunderklaus.GwtPlugin._
 
-name := "D��monstrateur API by Camille Freisz"
+name := "democamille"
  
 scalaVersion := "2.9.2"
  
@@ -22,6 +22,7 @@ libraryDependencies ++= Seq(
 libraryDependencies ++= Seq(
 	//Add add-ons from the directory here. e.g.
 	//"org.vaadin.addons" % "ratingstars" % "1.4"
+"rome" % "rome" % "1.0"
 )
 
 
